@@ -1,0 +1,200 @@
+Mon Sep 02 11:14:11 2024 cnss-daemon[2114]: cnss_plat_read_file: No such file /data/vendor/wifi/wlfw_cal_03_qcn6122_pci0.bin
+Mon Sep 02 11:14:11 2024 cnss-daemon[2114]: wlfw_build_cal_table: not read /data/vendor/wifi/wlfw_cal_03_qcn6122_pci0.bin
+Mon Sep 02 11:14:11 2024 cnss-daemon[2114]: cnss_plat_read_file: No such file /data/vendor/wifi/wlfw_cal_04_qcn6122_pci0.bin
+Mon Sep 02 11:14:11 2024 cnss-daemon[2114]: wlfw_build_cal_table: not read /data/vendor/wifi/wlfw_cal_04_qcn6122_pci0.bin
+Mon Sep 02 11:14:11 2024 cnss-daemon[2114]: wlfw_send_cap_req: chip_id: 0x0, chip_family 0x4, board_id: 0xff, soc_id: 0xffffffff, fw_version: 0x26088993, fw_build_timestamp: 2022-01-17 11:55
+Mon Sep 02 11:14:11 2024 dnsmasq[9529]: exiting on receipt of SIGTERM
+Mon Sep 02 11:14:11 2024 procd: Respawn instance dnsmasq::instance1 resp_count: 3
+Mon Sep 02 11:14:11 2024 dnsmasq[9984]: started, version 2.78 cache disabled
+Mon Sep 02 11:14:11 2024 dnsmasq[9984]: compile time options: IPv6 GNU-getopt no-DBus no-i18n no-IDN DHCP DHCPv6 no-Lua TFTP no-conntrack no-ipset no-auth no-DNSSEC loop-detect inotify
+Mon Sep 02 11:14:11 2024 dnsmasq[9984]: reading /tmp/resolv.conf.auto
+Mon Sep 02 11:14:11 2024 dnsmasq[9984]: using nameserver 189.7.40.43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[9984]: using nameserver 189.7.40.48#53
+Mon Sep 02 11:14:11 2024 dnsmasq[9984]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[9984]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Sep 02 11:14:11 2024 dnsmasq[9984]: using nameserver 2804:14c:3f87:906f::ff:fe00:4#53
+Mon Sep 02 11:14:11 2024 dnsmasq[9984]: read /etc/hosts - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[9984]: read /tmp/hosts/dhcp - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[9984]: read /tmp/hosts/meu_intelbras - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[9984]: read /tmp/hosts/captive - 1 addresses
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: 802.11bgn/ax
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: Enable ol_stats by default for Lithium platforms
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: Enable ol_stats by default for Lithium platforms
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: cat: can't open '/sys/class/net/ath0/address': No such file or directory
+Mon Sep 02 11:14:11 2024 dnsmasq[9984]: exiting on receipt of SIGTERM
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: cfg80211: ifname: ath0 mode: __ap cfgphy: phy4
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: sh: 0: unknown operand
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: sh: 1: unknown operand
+Mon Sep 02 11:14:11 2024 netifd: wifi0 (7317): iface ap
+Mon Sep 02 11:14:11 2024 qcawificfg80211_net: qcawificfg80211_setup_vif 0
+Mon Sep 02 11:14:11 2024 netifd: lan (7348): udhcpc: performing DHCP renew
+Mon Sep 02 11:14:11 2024 netifd: lan (7348): udhcpc: sending renew to 192.168.0.1
+Mon Sep 02 11:14:11 2024 netifd: lan (7348): udhcpc: lease of 192.168.0.33 obtained, lease time 604800
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: sh: out of range
+Mon Sep 02 11:14:11 2024 procd: Respawn instance dnsmasq::instance1 resp_count: 4
+Mon Sep 02 11:14:11 2024 dnsmasq[10795]: started, version 2.78 cache disabled
+Mon Sep 02 11:14:11 2024 dnsmasq[10795]: compile time options: IPv6 GNU-getopt no-DBus no-i18n no-IDN DHCP DHCPv6 no-Lua TFTP no-conntrack no-ipset no-auth no-DNSSEC loop-detect inotify
+Mon Sep 02 11:14:11 2024 dnsmasq[10795]: reading /tmp/resolv.conf.auto
+Mon Sep 02 11:14:11 2024 dnsmasq[10795]: using nameserver 189.7.40.43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[10795]: using nameserver 189.7.40.48#53
+Mon Sep 02 11:14:11 2024 dnsmasq[10795]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[10795]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Sep 02 11:14:11 2024 dnsmasq[10795]: using nameserver 2804:14c:3f87:906f::ff:fe00:4#53
+Mon Sep 02 11:14:11 2024 dnsmasq[10795]: read /etc/hosts - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[10795]: read /tmp/hosts/dhcp - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[10795]: read /tmp/hosts/meu_intelbras - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[10795]: read /tmp/hosts/captive - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[10795]: exiting on receipt of SIGTERM
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: sh: ]: unknown operand
+Mon Sep 02 11:14:11 2024 netifd: Network device 'ath0' link is up
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: OK
+Mon Sep 02 11:14:11 2024 procd: Respawn instance dnsmasq::instance1 resp_count: 5
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: started, version 2.78 cache disabled
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: compile time options: IPv6 GNU-getopt no-DBus no-i18n no-IDN DHCP DHCPv6 no-Lua TFTP no-conntrack no-ipset no-auth no-DNSSEC loop-detect inotify
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: reading /tmp/resolv.conf.auto
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: using nameserver 189.7.40.43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: using nameserver 189.7.40.48#53
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: using nameserver 2804:14c:3f87:906f::ff:fe00:4#53
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: read /etc/hosts - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: read /tmp/hosts/dhcp - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: read /tmp/hosts/meu_intelbras - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: read /tmp/hosts/captive - 1 addresses
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: sh: off: unknown operand
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: sh: ath: unknown operand
+Mon Sep 02 11:14:11 2024 mcastds: Leaving mcsd executive program
+Mon Sep 02 11:14:11 2024 mcastds: Entering evloopRun
+Mon Sep 02 11:14:11 2024 sessions[11560]: "Incorrect login or password."
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: Enable ol_stats by default for Lithium platforms
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: Enable ol_stats by default for Lithium platforms
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: cat: can't open '/sys/class/net/ath1/address': No such file or directory
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: cfg80211: ifname: ath1 mode: __ap cfgphy: phy5
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: sh: 0: unknown operand
+Mon Sep 02 11:14:11 2024 hostapd: ath0: IEEE 802.11 driver had channel switch: freq=2417, ht=1, vht_ch=0x0, he_ch=0x0, offset=0, width=1 (20 MHz), cf1=2417, cf2=0
+Mon Sep 02 11:14:11 2024 netifd: wifi1 (7318): iface ap
+Mon Sep 02 11:14:11 2024 qcawificfg80211_net: qcawificfg80211_setup_vif 0
+Mon Sep 02 11:14:11 2024 netifd: lan (7348): udhcpc: performing DHCP renew
+Mon Sep 02 11:14:11 2024 netifd: lan (7348): udhcpc: sending renew to 192.168.0.1
+Mon Sep 02 11:14:11 2024 netifd: Interface 'lan_v6' has lost the connection
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: reading /tmp/resolv.conf.auto
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: using nameserver 189.7.40.43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: using nameserver 189.7.40.48#53
+Mon Sep 02 11:14:11 2024 netifd: lan (7348): udhcpc: lease of 192.168.0.33 obtained, lease time 604800
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: sh: 1: unknown operand
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: sh: out of range
+Mon Sep 02 11:14:11 2024 netifd: Network device 'ath1' link is up
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: OK
+Mon Sep 02 11:14:11 2024 netifd: Interface 'lan_v6' is now up
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: reading /tmp/resolv.conf.auto
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: using nameserver 189.7.40.43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: using nameserver 189.7.40.48#53
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: using nameserver 2804:14c:3f87:906f::ff:fe00:4#53
+Mon Sep 02 11:14:11 2024 dnsmasq[10895]: exiting on receipt of SIGTERM
+Mon Sep 02 11:14:11 2024 procd: Instance dnsmasq::instance1 s in a crash loop 6 crashes, 6 seconds since last crash
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: sh: off: unknown operand
+Mon Sep 02 11:14:11 2024 mcastds: Leaving mcsd executive program
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: /etc/rc.common: line 84: get_wifi_device_name: not found
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: /etc/rc.common: line 84: get_wifi_device_name: not found
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: started, version 2.78 cache disabled
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: compile time options: IPv6 GNU-getopt no-DBus no-i18n no-IDN DHCP DHCPv6 no-Lua TFTP no-conntrack no-ipset no-auth no-DNSSEC loop-detect inotify
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: reading /tmp/resolv.conf.auto
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: using nameserver 189.7.40.43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: using nameserver 189.7.40.48#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: using nameserver 2804:14c:3f87:906f::ff:fe00:4#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: read /etc/hosts - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: read /tmp/hosts/dhcp - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: read /tmp/hosts/meu_intelbras - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: read /tmp/hosts/captive - 1 addresses
+Mon Sep 02 11:14:11 2024 redirector: Reloading redirector due to ifup of lan_v6 (br-lan)
+Mon Sep 02 11:14:11 2024 mcastds: Entering evloopRun
+Mon Sep 02 11:14:11 2024 netifd: Interface 'lan_v6' has lost the connection
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: reading /tmp/resolv.conf.auto
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: using nameserver 189.7.40.43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: using nameserver 189.7.40.48#53
+Mon Sep 02 11:14:11 2024 netifd: Interface 'lan_v6' is now up
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: reading /tmp/resolv.conf.auto
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: using nameserver 189.7.40.43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: using nameserver 189.7.40.48#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: using nameserver 2804:14c:3f87:906f::ff:fe00:4#53
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: /sbin/wifi: eval: line 5281: iface_mgr_setup: not found
+Mon Sep 02 11:14:11 2024 cnss-daemon[2114]: wlfw_send_qdss_trace_config_download_req: rc -18, result 0, error 0
+Mon Sep 02 11:14:11 2024 cnss-daemon[2114]: Failed to send QDSS Trace Load Config
+Mon Sep 02 11:14:11 2024 dnsmasq[12165]: exiting on receipt of SIGTERM
+Mon Sep 02 11:14:11 2024 dnsmasq[12570]: started, version 2.78 cache disabled
+Mon Sep 02 11:14:11 2024 dnsmasq[12570]: compile time options: IPv6 GNU-getopt no-DBus no-i18n no-IDN DHCP DHCPv6 no-Lua TFTP no-conntrack no-ipset no-auth no-DNSSEC loop-detect inotify
+Mon Sep 02 11:14:11 2024 dnsmasq[12570]: reading /tmp/resolv.conf.auto
+Mon Sep 02 11:14:11 2024 dnsmasq[12570]: using nameserver 189.7.40.43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12570]: using nameserver 189.7.40.48#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12570]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12570]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12570]: using nameserver 2804:14c:3f87:906f::ff:fe00:4#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12570]: read /etc/hosts - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[12570]: read /tmp/hosts/dhcp - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[12570]: read /tmp/hosts/meu_intelbras - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[12570]: read /tmp/hosts/captive - 1 addresses
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: device: wifi0 vifs: ssid1
+Mon Sep 02 11:14:11 2024 procd: /etc/init.d/network: device: wifi1 vifs: ssid1_1
+Mon Sep 02 11:14:11 2024 rmmod: unloading the module failed
+Mon Sep 02 11:14:11 2024 rmmod: unloading the module failed
+Mon Sep 02 11:14:11 2024 rmmod: unloading the module failed
+Mon Sep 02 11:14:11 2024 rmmod: unloading the module failed
+Mon Sep 02 11:14:11 2024 redirector: Reloading redirector due to ifup of lan_v6 (br-lan)
+Mon Sep 02 11:14:11 2024 ubus_hubble_plugin: started.
+Mon Sep 02 11:14:11 2024 ubus_hubble_plugin: Did not succeeded calling itb.custom.system board!
+Mon Sep 02 11:14:11 2024 dnsmasq[12570]: exiting on receipt of SIGTERM
+Mon Sep 02 11:14:11 2024 LIBITBCRONOS: started.
+Mon Sep 02 11:14:11 2024 dnsmasq[12845]: started, version 2.78 cache disabled
+Mon Sep 02 11:14:11 2024 dnsmasq[12845]: compile time options: IPv6 GNU-getopt no-DBus no-i18n no-IDN DHCP DHCPv6 no-Lua TFTP no-conntrack no-ipset no-auth no-DNSSEC loop-detect inotify
+Mon Sep 02 11:14:11 2024 dnsmasq[12845]: reading /tmp/resolv.conf.auto
+Mon Sep 02 11:14:11 2024 dnsmasq[12845]: using nameserver 189.7.40.43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12845]: using nameserver 189.7.40.48#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12845]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12845]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12845]: using nameserver 2804:14c:3f87:906f::ff:fe00:4#53
+Mon Sep 02 11:14:11 2024 dnsmasq[12845]: read /etc/hosts - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[12845]: read /tmp/hosts/dhcp - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[12845]: read /tmp/hosts/meu_intelbras - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[12845]: read /tmp/hosts/captive - 1 addresses
+Mon Sep 02 11:14:11 2024 mapid: started.
+Mon Sep 02 11:14:11 2024 mapid: device_system_ready: false (waiting...)
+Mon Sep 02 11:14:11 2024 procd: - init complete -
+Mon Sep 02 11:14:11 2024 admin: Change LED green to on
+Mon Sep 02 11:14:11 2024 scheduling: Reloading scheduling due to date change
+Mon Sep 02 11:14:11 2024 itbfwupd: Reloading itbfwupd due to date change
+Mon Sep 02 11:14:11 2024 procd: Respawn instance lbd::instance1 resp_count: 1
+Mon Sep 02 11:14:11 2024 sessions[13113]: "Incorrect login or password."
+Mon Sep 02 11:14:11 2024 hostapd: ath1: IEEE 802.11 driver had channel switch: freq=5180, ht=1, vht_ch=0x0, he_ch=0x0, offset=1, width=3 (80 MHz), cf1=5210, cf2=0
+Mon Sep 02 11:14:11 2024 dnsmasq[12845]: exiting on receipt of SIGTERM
+Mon Sep 02 11:14:11 2024 dnsmasq[13252]: started, version 2.78 cache disabled
+Mon Sep 02 11:14:11 2024 dnsmasq[13252]: compile time options: IPv6 GNU-getopt no-DBus no-i18n no-IDN DHCP DHCPv6 no-Lua TFTP no-conntrack no-ipset no-auth no-DNSSEC loop-detect inotify
+Mon Sep 02 11:14:11 2024 dnsmasq[13252]: reading /tmp/resolv.conf.auto
+Mon Sep 02 11:14:11 2024 dnsmasq[13252]: using nameserver 189.7.40.43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[13252]: using nameserver 189.7.40.48#53
+Mon Sep 02 11:14:11 2024 dnsmasq[13252]: using nameserver 2804:14c:3f10:672:189:7:40:43#53
+Mon Sep 02 11:14:11 2024 dnsmasq[13252]: using nameserver 2804:14c:3f10:672:189:7:40:48#53
+Mon Sep 02 11:14:11 2024 dnsmasq[13252]: using nameserver 2804:14c:3f87:906f::ff:fe00:4#53
+Mon Sep 02 11:14:11 2024 dnsmasq[13252]: read /etc/hosts - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[13252]: read /tmp/hosts/dhcp - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[13252]: read /tmp/hosts/meu_intelbras - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[13252]: read /tmp/hosts/captive - 1 addresses
+Mon Sep 02 11:14:11 2024 procd: Respawn instance lbd::instance1 resp_count: 2
+Mon Sep 02 11:14:11 2024 mapid: Ingress error!
+Mon Sep 02 11:14:11 2024 dnsmasq: Sending SIGHUP to dnsmasq due to hosts file change (hotplug call)
+Mon Sep 02 11:14:11 2024 dnsmasq[13252]: read /etc/hosts - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[13252]: read /tmp/hosts/global - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[13252]: read /tmp/hosts/dhcp - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[13252]: read /tmp/hosts/meu_intelbras - 1 addresses
+Mon Sep 02 11:14:11 2024 dnsmasq[13252]: read /tmp/hosts/captive - 1 addresses
+Mon Sep 02 11:14:11 2024 mapid: mapid connected (INGRESS)
+Mon Sep 02 11:14:11 2024 itbcompress: mapid connected (GENERAL)
+Mon Sep 02 11:14:11 2024 sessions[13463]: "Incorrect login or password."
+Mon Sep 02 11:14:11 2024 sessions[13470]: "Incorrect login or password."
+Mon Sep 02 11:14:11 2024 : password for 'admin' changed
+Mon Sep 02 11:14:11 2024 crond[7432]: time disparity of 9571 minutes detected
